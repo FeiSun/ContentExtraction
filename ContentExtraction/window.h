@@ -1,3 +1,10 @@
+/**
+ * Dom Based Content Extraction via Text Density
+ *
+ * @copyright (c) 2011, Fei Sun (ofey.sunfei@gmail.com)
+ * @license GPLv3 <http://www.gnu.org/copyleft/gpl.html>
+ */
+ 
 #ifndef WINDOW_H
 #define WINDOW_H
 
