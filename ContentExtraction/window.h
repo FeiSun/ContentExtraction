@@ -1,8 +1,8 @@
-/**
+/*
  * Dom Based Content Extraction via Text Density
- *
- * @copyright (c) 2011, Fei Sun (ofey.sunfei@gmail.com)
- * @license GPLv3 <http://www.gnu.org/copyleft/gpl.html>
+ * Copyright (c) 2011 Sun Fei. All Rights Reserved.
+ * Author: Ofey.sunfei@gmail.com (Sun Fei)
+ * License: GPLv3 <http://www.gnu.org/copyleft/gpl.html>
  */
  
 #ifndef WINDOW_H
