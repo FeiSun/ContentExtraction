@@ -1,6 +1,8 @@
 /*
- * Copyright 2010 Sun Fei. All Rights Reserved.
+ * Dom Based Content Extraction via Text Density
+ * Copyright (c) 2011 Sun Fei. All Rights Reserved.
  * Author: Ofey.sunfei@gmail.com (Sun Fei)
+ * License: GPLv3 <http://www.gnu.org/copyleft/gpl.html>
  *
  * Uses the information for DOM to delete noisy DOM node
  */
