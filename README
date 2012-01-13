@@ -1,3 +1,8 @@
-#License
+Content Extraction via Text Density (CETD) program provides algorithms
+to detect and remove the additional content (e.g. ads, navigation menus, copyright notices etc)
+around the main content of a webpage.
+
+
+License
 
 The GPL version 3, read it at http://www.gnu.org/licenses/gpl.txt
