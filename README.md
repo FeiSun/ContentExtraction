@@ -1,12 +1,18 @@
-Content Extraction via Text Density (CETD) program provides algorithms
-to detect and remove the additional content (e.g. ads, navigation menus, copyright notices etc)
-around the main content of a webpage.
+#Content Extraction via Text Density (CETD) 
+
+
+## Introduction
+
+This program is developed to detect and remove the additional content (e.g. ads, navigation menus, copyright notices etc) around the main content of a webpage.
 
 Before using the source code, make sure you have already installed QT sdk.
 
-License
 
-The GPL version 3, read it at http://www.gnu.org/licenses/gpl.txt
+```
+Contact: Fei Sun, Institute Of Computing Technology, ofey.sunfei@gmail.com, 
+Project page: http://ofey.me/projects/cetd/
+```
+
 
 ## Citation
 
@@ -29,3 +35,7 @@ address = {New York, NY, USA},
 keywords = {composite text density, content extraction, densitysum, text density},
 }
 ```
+
+##License
+
+The GPL version 3, read it at http://www.gnu.org/licenses/gpl.txt
